@@ -121,3 +121,8 @@ CI & CD
 - [ ]  Don’t keep port 22 open on any AWS service groups on a permanent basis. Instead consider allowing only authorized IPs to SSH on the box.
 - [ ]  Create immutable hosts instead of long-lived servers that you patch and upgrade. (See Immutable Infrastructure Can Be More Secure).
  - [ ] Use an Intrusion Detection System like SenseDeep or service to minimize APTs.
+
+
+References
+- [Owasp to 10](https://owasp.org/www-project-top-ten/)
+- [Owasp Wep Security Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
